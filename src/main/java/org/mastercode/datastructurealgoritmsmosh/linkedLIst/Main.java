@@ -6,7 +6,9 @@ public class Main {
        list.addFirst(10);
        list.addFirst(20);
        list.addFirst(30);
-       list.deleteLast();
-        System.out.println(list.contains(10));
+       list.reverse();
+
+//       list.deleteLast();
+//        System.out.println(list.contains(10));
     }
 }
