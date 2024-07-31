@@ -1,4 +1,4 @@
-package org.mastercode.datastructurealgoritmsmosh.binarySearchTree;
+package org.mastercode.datastructurealgoritms.binarySearchTree;
 
 public class Main {
     public static void main(String[] args) {

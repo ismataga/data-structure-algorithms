@@ -1,4 +1,4 @@
-package org.mastercode.datastructurealgoritmsmosh.linkedLIst;
+package org.mastercode.datastructurealgoritms.linkedLIst;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,6 +9,6 @@ public class Main {
        list.reverse();
 
 //       list.deleteLast();
-//        System.out.println(list.contains(10));
+        System.out.println(list.contains(10));
     }
 }

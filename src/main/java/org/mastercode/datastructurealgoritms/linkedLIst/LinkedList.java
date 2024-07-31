@@ -1,4 +1,4 @@
-package org.mastercode.datastructurealgoritmsmosh.linkedLIst;
+package org.mastercode.datastructurealgoritms.linkedLIst;
 
 import java.util.NoSuchElementException;
 

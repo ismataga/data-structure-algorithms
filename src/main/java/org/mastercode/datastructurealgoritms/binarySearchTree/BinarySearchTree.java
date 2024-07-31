@@ -1,4 +1,4 @@
-package org.mastercode.datastructurealgoritmsmosh.binarySearchTree;
+package org.mastercode.datastructurealgoritms.binarySearchTree;
 
 public class BinarySearchTree {
     public class Node {
