@@ -1,6 +1,7 @@
 package org.mastercode.datastructurealgoritms.hackerrank;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class PlusMinus {
@@ -32,6 +33,7 @@ public class PlusMinus {
             System.out.printf("%.6f%n", positiveCount / size);
             System.out.printf("%.6f%n", negativeCount / size);
             System.out.printf("%.6f%n", zeroCount / size);
+            List<Integer> list = new LinkedList<>();
 
     }
 
