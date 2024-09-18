@@ -1,4 +1,4 @@
-package org.mastercode.datastructurealgoritms;
+package org.mastercode.datastructurealgoritms.coursera;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
