@@ -96,6 +96,12 @@ public class Main {
                 .reduce(Integer::min);
         System.out.println(a);
     }
+    private static void highestValueAllTransactionsin(List<Transaction> transactions) {
+        Optional<Integer> a =  transactions.stream()
+                .map(Transaction::getValue)
+                .reduce(Integer::min);
+        System.out.println(a);
+    }
 
 
 }
